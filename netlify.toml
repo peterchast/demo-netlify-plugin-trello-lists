@@ -13,7 +13,7 @@
   [plugins.inputs]
 
     # The URL of a publicly visible Trello board
-    trelloBoardUrl = "https://trello.com/b/twPXW2W1/netlify-plugin-trello-list-info"
+    trelloBoardUrl = "https://trello.com/b/hJJuY7CJ/barbaric-yawps"
 
     # Location of the JSON data file to be generated
     dataFilePath = "src/_data/trello.json"
@@ -21,5 +21,3 @@
     # If the plugin fails, should it do so quietly or cancel the build?
     # "failBuild" | "failPlugin"
     fail = "failBuild"
-
-
